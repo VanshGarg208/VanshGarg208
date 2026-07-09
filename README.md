@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vansh Garg
+# Hi, I'm Vansh Garg
 
 ### Passionate developer
 
