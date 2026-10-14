@@ -11,7 +11,7 @@
   <li>🎓 <strong>Computer Science Student</strong></li>
   <li>🌱 Currently learning <strong>MERN Stack, React, and System Design</strong></li>
   <li>💻 Interested in <strong>Full Stack Development</strong>, <strong>Backend Engineering</strong>, and <strong>Problem Solving</strong></li>
-  <li>🧩 Solved <strong>185+</strong> problems on <strong>LeetCode</strong> and some other on <strong>GeeksforGeeks</strong></li>
+  <li>🧩 Solved <strong>200+</strong> problems on <strong>LeetCode</strong> and some other on <strong>GeeksforGeeks</strong></li>
   <li>⚡ Love turning ideas into real-world applications</li>
   <li>⚡ Gmail : vanshgarg1782006@gmail.com</li>
 </ul>
